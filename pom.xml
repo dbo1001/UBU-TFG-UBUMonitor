@@ -7,15 +7,14 @@
 	<artifactId>ubumonitor</artifactId>
 	<version>2.6.3-stable</version>
 
-
 	<name>UBUMonitor</name>
 	<url>http://maven.apache.org</url>
 
-
-
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  		<sonar.projectKey>dbo1001_UBU-TFG-UBUMonitor</sonar.projectKey>
+  		<sonar.organization>dbo1001</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<repositories>
